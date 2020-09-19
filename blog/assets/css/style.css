@@ -64,6 +64,10 @@ p.footer {
     margin-top: 35px;
     font-weight: 600;
 }
+.logo1{
+	height: 80px;
+	width: auto;
+}
 p.footer a{
 	color:#3AD5A0;
 }
@@ -724,6 +728,14 @@ transition:0.5s all;
 	.main h1 {
 		font-size: 25px;
 	}	
+	.logo1{
+		height: 50px !important;
+		width: auto;
+	}
+	#video{
+		height: 169px !important;
+		width: 300px !important;
+	}
 }
 @media (max-width: 414px){
 	.resp-tab-item {

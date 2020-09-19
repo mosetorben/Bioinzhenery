@@ -23,6 +23,11 @@ html {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
 }
 
+.logo{
+  height: 80px; 
+  width: auto;
+}
+
 .wrapper-full {
   width: 100%;
   padding-right: 15px;
@@ -43,6 +48,11 @@ html {
   .wrapper {
     max-width: 540px;
   }
+  .logo{
+    height: 50px !important; 
+    width: auto;
+  }
+  
 }
 
 @media (min-width: 768px) {
@@ -10652,9 +10662,6 @@ table p {
   margin: 0;
 }
 
-.logo {
-  margin-left: 50px !important;
-}
 
 .logo h1 a {
   color: var(--theme-color-2);
