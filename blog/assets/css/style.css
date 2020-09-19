@@ -693,10 +693,6 @@ transition:0.5s all;
 		height: 50px !important;
 		width: auto;
 	}
-	#video{
-		height: 169px !important;
-		width: 300px !important;
-	}
 }
 @media (max-width: 480px){
 	.content {

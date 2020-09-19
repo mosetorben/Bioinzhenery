@@ -78,6 +78,11 @@ html {
   display: block;
 }
 
+#video {
+  max-width: 100%;
+  display: inline;
+}
+
 .img-fluid {
   width: 100%;
 }
